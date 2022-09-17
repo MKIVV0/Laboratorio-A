@@ -1,0 +1,10 @@
+- Login:
+    - Username: marco.rossi
+    - Password: mrossi00
+
+- Canzone con una valutazione:
+    Prima occorrenza di Blind Blake - Southern Rag - 1927 
+
+- Playlist presenti per l'utente:
+    - pop
+    - rock
